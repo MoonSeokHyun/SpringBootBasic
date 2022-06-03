@@ -1,4 +1,4 @@
-# SpringBootBasic
+# RestFul API 연습
 - RestFul API 연습(1) 회원관리(1) 회원전체보기 포스트맨사용
 https://devofroad.tistory.com/106
 - RestFul API 연습(2) 회원관리(2) 회원선택 포스트맨사용
