@@ -13,3 +13,7 @@ https://devofroad.tistory.com/110
 https://devofroad.tistory.com/111
 -  RestFul API 연습(7) 다국어 처리를 위한 Internationalization 구현 방법
 https://devofroad.tistory.com/112
+- RestFul API 연습(8) Rest api 구현을 위한 HATEOAS 적용
+https://devofroad.tistory.com/113
+- RestFul API 연습(9) Swagger 사용
+https://devofroad.tistory.com/114
